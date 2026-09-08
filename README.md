@@ -13,6 +13,7 @@ Built with Python using Object-Oriented Programming principles.
 - Logout Functionality
 - Input Validation
 - Exception Handling
+- Multiple Account Support
 
 ## Concepts Used
 
