@@ -1,6 +1,7 @@
 # ATM Management System
 
 A menu-driven ATM simulation built using Python and Object-Oriented Programming.
+Built with Python using Object-Oriented Programming principles.
 
 ## Features
 
